@@ -9,9 +9,9 @@ The project methodology proceeds in three key stages:
 3.  **WGAN Augmentation:** Implementing a **Wasserstein GAN (WGAN)** to generate synthetic data, enhancing the dataset to further improve the robustness of the optimized model.
 
 ##  Disclaimer
-> **Crucial Setup Instructions:**
-> * **Library Versions:** You must install the specific versions of the libraries listed in `requirements.txt` before running the code to avoid compatibility errors.
-> * **Directory Structure:** Please maintain the folder paths exactly as submitted. No changes to the file structure are required or recommended.
+ **Crucial Setup Instructions:**
+ * **Library Versions:** You must install the specific versions of the libraries listed in `requirements.txt` before running the code to avoid compatibility errors.
+ * **Directory Structure:** Please maintain the folder paths exactly as submitted. No changes to the file structure are required or recommended.
 
 ## Repository Structure
 **IMPORTANT:** This project relies on relative paths. Please ensure the following directory structure is maintained exactly as shown below when running the notebook.
