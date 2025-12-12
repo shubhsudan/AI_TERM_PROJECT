@@ -1,18 +1,20 @@
-# Brain Tumor Classification using GAN
+# Brain Tumor Classification using WGAN
 
-## Project Overview
-This project applies Deep Learning techniques to classify brain tumors into three specific categories: **Glioma**, **Meningioma**, and **Pituitary tumor**. 
-First I implement the authors methodology of augmenting the images, and their deep learning model.
-I then try to optimize the baseline results as their previous method gave us poor results.
-Then I implements a **Wasserstein GAN (WGAN)** for data augmentation to enhance the dataset and compares a baseline classification model against an optimized version.
+##  Project Overview
+This project applies Deep Learning techniques to classify brain tumors into three specific categories: **Glioma**, **Meningioma**, and **Pituitary tumor**.
+
+The project methodology proceeds in three key stages:
+1.  **Baseline Implementation:** Implementing the original authors' methodology for image augmentation and their deep learning model.
+2.  **Optimization:** Optimizing the baseline architecture and hyperparameters to address performance limitations observed in the initial method.
+3.  **WGAN Augmentation:** Implementing a **Wasserstein GAN (WGAN)** to generate synthetic data, enhancing the dataset to further improve the robustness of the optimized model.
+
+##  Disclaimer
+> **Crucial Setup Instructions:**
+> * **Library Versions:** You must install the specific versions of the libraries listed in `requirements.txt` before running the code to avoid compatibility errors.
+> * **Directory Structure:** Please maintain the folder paths exactly as submitted. No changes to the file structure are required or recommended.
 
 ## Repository Structure
-**IMPORTANT:** This project relies on relative paths. Please ensure the following directory structure is maintained exactly as shown below when running the notebook. Do not move the folders or the notebook file.
-
-## Disclaimer - Install the specific version of the libraries as given in requirement.txt - before running the code.
-## Please keep the folder paths as per submission - no change is required.
-
-The folder - file structure has been given below:
+**IMPORTANT:** This project relies on relative paths. Please ensure the following directory structure is maintained exactly as shown below when running the notebook.
 
 ```text
 AI_TERM_PROJECT/
