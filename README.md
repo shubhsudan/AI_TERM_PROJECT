@@ -9,8 +9,8 @@ Then I implements a **Wasserstein GAN (WGAN)** for data augmentation to enhance 
 ## Repository Structure
 **IMPORTANT:** This project relies on relative paths. Please ensure the following directory structure is maintained exactly as shown below when running the notebook. Do not move the folders or the notebook file.
 
-# Disclaimer - Install the specific version of the libraries as given in requirement.txt - before running the code.
-# Please keep the folder paths as per submission - no change is required.
+## Disclaimer - Install the specific version of the libraries as given in requirement.txt - before running the code.
+## Please keep the folder paths as per submission - no change is required.
 
 The folder - file structure has been given below:
 
