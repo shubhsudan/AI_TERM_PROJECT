@@ -1,0 +1,21 @@
+LIBRARY VERSIONS
+==============================
+Python:       3.10.10
+TensorFlow:   2.10.0
+TF Addons:    0.19.0
+PyTorch:      2.4.0+cu121
+Torchvision:  0.19.0+cu121
+NumPy:        1.23.5
+OpenCV:       4.12.0
+Scikit-Learn: 1.5.1
+Matplotlib:   3.9.1
+Seaborn:      0.13.2
+Pillow (PIL): 11.3.0
+Tqdm:         4.66.5
+==============================
+
+GPU AVAILABILITY
+------------------------------
+TensorFlow GPU: True
+PyTorch GPU:    True
+==============================
